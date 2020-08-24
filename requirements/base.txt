@@ -1,3 +1,4 @@
-selenium
+pytube
+win32clipboard
 
 
